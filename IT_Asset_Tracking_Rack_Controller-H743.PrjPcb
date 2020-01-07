@@ -384,7 +384,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=14
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -392,7 +392,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TRYJTTOX
 
 [Configuration1]
 Name=Sources
@@ -1215,7 +1215,7 @@ Type13=2
 Type14=1
 Type15=1
 Type16=1
-Type17=1
+Type17=0
 Type18=1
 Type19=1
 Type20=1
