@@ -1457,6 +1457,45 @@ SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
 
+[NetInfos]
+Net1=NetName=RS485_TXD|NetColor=$00FFF0FF
+Net2=NetName=NetR56_1|NetColor=$006EFF6E
+Net3=NetName=NetR55_1|NetColor=$006EFF6E
+Net4=NetName=+3.3V|NetColor=$0053B23B
+Net5=NetName=12V|NetColor=$000098C3
+Net6=NetName=GND|NetColor=clAqua
+Net7=NetName=RS485.RS485_RXD|NetColor=$00FFF0FF
+Net8=NetName=RS485_RXD|NetColor=$00FFF0FF
+Net9=NetName=RS485_CTS|NetColor=$00FFF0FF
+Net10=NetName=RS485.RS485_RTS|NetColor=$00FFF0FF
+Net11=NetName=RXI_N|NetColor=$000083FD
+Net12=NetName=EN_12V|NetColor=$000098C3
+Net13=NetName=V_POE-|NetColor=$00E2745F
+Net14=NetName=NetR150_1|NetColor=$006EFF6E
+Net15=NetName=3.3_V|NetColor=$0000BF00
+Net16=NetName=V_POE+|NetColor=$005426D6
+Net17=NetName=RS485_BE|NetColor=$00FFF0FF
+Net18=NetName=EN_5V|NetColor=clYellow
+Net19=NetName=NetNT11_1|NetColor=$00E2745F
+Net20=NetName=CONN_RJ45.TXOP|NetColor=$000083FD
+Net21=NetName=NetR57_1|NetColor=$006EFF6E
+Net22=NetName=TXO_N|NetColor=$000083FD
+Net23=NetName=RS485.RS485_TXD|NetColor=$00FFF0FF
+Net24=NetName=3V3|NetColor=$006EFF6E
+Net25=NetName=RS485.RS485_CTS|NetColor=$00FFF0FF
+Net26=NetName=RS485.RS485_BE|NetColor=$00FFF0FF
+Net27=NetName=RS485_RTS|NetColor=$00FFF0FF
+Net28=NetName=CONN_RJ45.RXIP|NetColor=$000083FD
+Net29=NetName=5V|NetColor=clYellow
+Net30=NetName=2V2|NetColor=$008F88FF
+Net31=NetName=CONN_RJ45.TXON|NetColor=$000083FD
+Net32=NetName=3.3Vout|NetColor=$0053B23B
+Net33=NetName=RXI_P|NetColor=$000083FD
+Net34=NetName=+3V3|NetColor=$0000DEB0
+Net35=NetName=TXO_P|NetColor=$000083FD
+Net36=NetName=CONN_RJ45.RXIN|NetColor=$000083FD
+Net37=NetName=1V8|NetColor=$005D85FF
+
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
