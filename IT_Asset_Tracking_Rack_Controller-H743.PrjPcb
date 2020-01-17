@@ -428,6 +428,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for IT_Asset_Tracking_Rack_Controller-H743\Design Rule Check - IT_Asset_Tracking_Rack_Controller-H743.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1461,14 +1465,14 @@ PartTypes=0
 Net1=NetName=RS485_TXD|NetColor=$00FFF0FF
 Net2=NetName=NetR56_1|NetColor=$006EFF6E
 Net3=NetName=VPORTP|NetColor=$00BE35AB
-Net4=NetName=+3.3V|NetColor=$0053B23B
-Net5=NetName=RS485.RS485_RXD|NetColor=$00FFF0FF
-Net6=NetName=12V|NetColor=$000098C3
-Net7=NetName=GND|NetColor=clAqua
-Net8=NetName=NetR55_1|NetColor=$006EFF6E
+Net4=NetName=NetR55_1|NetColor=$006EFF6E
+Net5=NetName=+3.3V|NetColor=$0053B23B
+Net6=NetName=RS485.RS485_RXD|NetColor=$00FFF0FF
+Net7=NetName=RS485_CTS|NetColor=$00FFF0FF
+Net8=NetName=12V|NetColor=$000098C3
 Net9=NetName=RS485_RXD|NetColor=$00FFF0FF
 Net10=NetName=RS485.RS485_RTS|NetColor=$00FFF0FF
-Net11=NetName=RS485_CTS|NetColor=$00FFF0FF
+Net11=NetName=GND|NetColor=clAqua
 Net12=NetName=RXI_N|NetColor=$000083FD
 Net13=NetName=EN_12V|NetColor=$000098C3
 Net14=NetName=D_P|NetColor=$0069A0A5
