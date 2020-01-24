@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for IT_Asset_Tracking_Rack_Controller-H743
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -428,6 +428,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document24]
+DocumentPath=Project Outputs for IT_Asset_Tracking_Rack_Controller-H743\Vorabversion.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for IT_Asset_Tracking_Rack_Controller-H743\Design Rule Check - IT_Asset_Tracking_Rack_Controller-H743.html
 DItemRevisionGUID=
@@ -479,7 +496,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for IT_Asset_Tracking_Rack_Controller-H743
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1467,12 +1484,12 @@ Net2=NetName=NetR56_1|NetColor=$006EFF6E
 Net3=NetName=VPORTP|NetColor=$00BE35AB
 Net4=NetName=NetR55_1|NetColor=$006EFF6E
 Net5=NetName=RS485.RS485_RXD|NetColor=$00FFF0FF
-Net6=NetName=+3.3V|NetColor=$0053B23B
-Net7=NetName=RS485_CTS|NetColor=$00FFF0FF
-Net8=NetName=12V|NetColor=$000098C3
+Net6=NetName=12V|NetColor=$000098C3
+Net7=NetName=GND|NetColor=clAqua
+Net8=NetName=+3.3V|NetColor=$0053B23B
 Net9=NetName=RS485_RXD|NetColor=$00FFF0FF
 Net10=NetName=RS485.RS485_RTS|NetColor=$00FFF0FF
-Net11=NetName=GND|NetColor=clAqua
+Net11=NetName=RS485_CTS|NetColor=$00FFF0FF
 Net12=NetName=RXI_N|NetColor=$000083FD
 Net13=NetName=EN_12V|NetColor=$000098C3
 Net14=NetName=D_P|NetColor=$0069A0A5
