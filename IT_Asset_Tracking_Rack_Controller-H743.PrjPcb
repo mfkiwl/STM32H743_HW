@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for IT_Asset_Tracking_Rack_Controller-H743
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -429,7 +429,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document24]
-DocumentPath=Project Outputs for IT_Asset_Tracking_Rack_Controller-H743\Vorabversion.OutJob
+DocumentPath=Project Outputs for IT_Asset_Tracking_Rack_Controller-H743\Output_Job.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -496,7 +496,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for IT_Asset_Tracking_Rack_Controller-H743
 
 [OutputGroup1]
 Name=Netlist Outputs
