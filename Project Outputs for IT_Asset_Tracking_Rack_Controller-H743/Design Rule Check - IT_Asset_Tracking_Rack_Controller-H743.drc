@@ -1,0 +1,81 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\Projects\IT_Asset_Tracking_Rack_Controller-H743_HW\IT_Asset_Tracking_Rack_Controller-H743.PcbDoc
+Date     : 1/27/2020
+Time     : 12:11:20 PM
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.08mm) (WithinRoom('BGA_NRF')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (InNet('V_POE+') OR InNet('VPORTP') OR InNet('V_POE-')  OR InNet('VCCBUS')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: Yes), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.102mm) (Max=1.524mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=25.4mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.178mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Room Power Over Ethernet (Bounding Region = (216.378mm, 46.505mm, 367mm, 133.627mm) (InComponentClass('Power Over Ethernet'))
+Rule Violations :0
+
+Processing Rule : Room Power_Supplies (Bounding Region = (216.378mm, 46.505mm, 348.864mm, 152.346mm) (InComponentClass('Power_Supplies'))
+Rule Violations :0
+
+Processing Rule : Room RS 485 (Bounding Region = (216.378mm, 46.505mm, 369.286mm, 131.417mm) (InComponentClass('RS 485'))
+Rule Violations :0
+
+Processing Rule : Room IT_Asset_Tracking_Rack_Controller-H743 (Bounding Region = (216.632mm, 46.327mm, 371.241mm, 128.775mm) (InComponentClass('IT_Asset_Tracking_Rack_Controller-H743'))
+Rule Violations :0
+
+Processing Rule : Room USB (Bounding Region = (216.378mm, 46.505mm, 346.553mm, 154.709mm) (InComponentClass('USB'))
+Rule Violations :0
+
+Processing Rule : Room Connectors (Bounding Region = (216.378mm, 46.505mm, 356.865mm, 144.498mm) (InComponentClass('Connectors'))
+Rule Violations :0
+
+Processing Rule : Room Ethernet (Bounding Region = (216.378mm, 46.759mm, 354.02mm, 147.241mm) (InComponentClass('Ethernet'))
+Rule Violations :0
+
+Processing Rule : Room MCU_STM32H743BI (Bounding Region = (216.378mm, 46.505mm, 351.709mm, 149.476mm) (InComponentClass('MCU_STM32H743BI'))
+Rule Violations :0
+
+Processing Rule : Room MCU PWR (Bounding Region = (216.378mm, 46.505mm, 362.021mm, 139.011mm) (InComponentClass('MCU PWR'))
+Rule Violations :0
+
+Processing Rule : Room NRF52840 (Bounding Region = (216.378mm, 46.505mm, 364.51mm, 136.243mm) (InComponentClass('NRF52840'))
+Rule Violations :0
+
+Processing Rule : Room Micro SD Card (Bounding Region = (216.378mm, 46.505mm, 359.532mm, 142.009mm) (InComponentClass('Micro SD Card'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:05
