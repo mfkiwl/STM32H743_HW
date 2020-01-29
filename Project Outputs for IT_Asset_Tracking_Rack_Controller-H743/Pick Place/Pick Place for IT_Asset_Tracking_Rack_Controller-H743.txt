@@ -4,15 +4,17 @@ C:\Users\Public\Documents\Altium\Projects\IT_Asset_Tracking_Rack_Controller-H743
 ========================================================================================================================
 File Design Information:
 
-Date:       27/01/20
-Time:       14:14
-Revision:   508e4d7919f81365eb439857d008b92430d977c4
+Date:       29/01/20
+Time:       07:54
+Revision:   8daf6c7ed14c1cc22f026d5a543d54295a36e6a9
 Variant:    No variations
 Units used: mil
 
 Designator Comment                              Layer         Footprint                       Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                                 
 U8         EMI-Filter                           TopLayer      WFBGA-17-Balls                  1750.000      2950.000      270      "RLC EMI Filter 3rd Order Low Pass 6 Channel L = 1nH, C = 2.5pF 17-WFBGA, FCBGA"                                                            
 F1         375mA/125VAC                         TopLayer      Littlefuse_Holder               170.000       1180.000      90       "375mA, 125V AC 125V DC Fuse with surfacemount holder, 2-SMD"                                                                               
+SYMBOL_Top "Reichle & De-Massari Logo"          BottomOverlay SYMBOL_R&M                      -8574.803     -1881.890     180      "Reichle & De-Massari Logo"                                                                                                                 
+SYMBOL_But "Reichle & De-Massari Logo"          TopSolder     SYMBOL_R&M                      -8574.803     -1881.890     360      "Reichle & De-Massari Logo"                                                                                                                 
 R62        1.2KOhm                              TopLayer      Resistor_0402_EIA               3750.000      3110.000      270      "1.2 kOhms ±0.5% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Thin Film"                                                                  
 R61        1.2KOhm                              TopLayer      Resistor_0402_EIA               3810.000      3110.000      270      "1.2 kOhms ±0.5% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Thin Film"                                                                  
 R60        1.2KOhm                              TopLayer      Resistor_0402_EIA               3870.000      3110.000      270      "1.2 kOhms ±0.5% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Thin Film"                                                                  

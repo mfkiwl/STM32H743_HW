@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: IT_Asset_Tracking_Rack_Controller-H743.GBR   1/27/2020  2:53:53 PM
+Gerber File Extension Report For: IT_Asset_Tracking_Rack_Controller-H743.GBR   1/29/2020  7:56:28 AM
 ------------------------------------------------------------------------------------------
 
 
@@ -7,10 +7,10 @@ Gerber File Extension Report For: IT_Asset_Tracking_Rack_Controller-H743.GBR   1
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .GTO                Top Overlay                             
-.GTP1               Top Paste                               
 .GTP                Top Paste                               
-.GTS                Top Solder                              
+.GTP1               Top Paste                               
 .GTS1               Top Solder                              
+.GTS                Top Solder                              
 .GTL                Top Layer                               
 .G1                 MidLayer1                               
 .G2                 MidLayer2                               

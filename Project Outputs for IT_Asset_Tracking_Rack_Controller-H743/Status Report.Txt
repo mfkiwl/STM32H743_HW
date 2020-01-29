@@ -1,15 +1,15 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 2:53:53 PM On 1/27/2020
+Start Output Generation At 7:56:28 AM On 1/29/2020
 
 Output: Gerber Files
 Type  : Gerber
 From  : Variant [[No Variations]] of PCB Document [IT_Asset_Tracking_Rack_Controller-H743.PcbDoc]
    Generated File[IT_Asset_Tracking_Rack_Controller-H743.GTO]
-   Generated File[IT_Asset_Tracking_Rack_Controller-H743.GTP1]
    Generated File[IT_Asset_Tracking_Rack_Controller-H743.GTP]
-   Generated File[IT_Asset_Tracking_Rack_Controller-H743.GTS]
+   Generated File[IT_Asset_Tracking_Rack_Controller-H743.GTP1]
    Generated File[IT_Asset_Tracking_Rack_Controller-H743.GTS1]
+   Generated File[IT_Asset_Tracking_Rack_Controller-H743.GTS]
    Generated File[IT_Asset_Tracking_Rack_Controller-H743.GTL]
    Generated File[IT_Asset_Tracking_Rack_Controller-H743.G1]
    Generated File[IT_Asset_Tracking_Rack_Controller-H743.G2]
@@ -28,4 +28,4 @@ From  : Variant [[No Variations]] of PCB Document [IT_Asset_Tracking_Rack_Contro
 Files Generated   : 18
 Documents Printed : 0
 
-Finished Output Generation At 2:53:54 PM On 1/27/2020
+Finished Output Generation At 7:56:29 AM On 1/29/2020
